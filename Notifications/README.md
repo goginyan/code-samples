@@ -1,1 +1,2 @@
 
+This is a notification module of the Shopify plugin. Users are able to configure the notifications (choose which notifications they want to receive and when). Notifications are based on events triggered by the whole project. DTO objects are used to transfer information across classes. We also have various channels of notifications (Email, Slack, Klaviyo). The repository design pattern is used for communication with a database.
